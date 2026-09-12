@@ -74,3 +74,22 @@ Dense Layer
 Softmax
      ↓
 Emotion Prediction
+
+
+
+
+---
+
+## Author
+
+**Vandana Tanwar**  
+B.Tech – Information Technology  
+Chandigarh University
+
+GitHub: [@thakurji12034-pixel](https://github.com/thakurji12034-pixel)
+
+---
+
+## License
+
+This project is developed for educational and research purposes.
