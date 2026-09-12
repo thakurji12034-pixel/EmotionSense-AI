@@ -1,0 +1,28 @@
+# Dataset
+RAVDESS/
+*.wav
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# TensorFlow / Keras temporary files
+*.h5
+*.keras.tmp
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab temporary files
+/content/
