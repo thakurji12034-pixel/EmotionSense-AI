@@ -77,8 +77,40 @@ Emotion Prediction
 
 
 
+## Dataset
 
+This project uses the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)** dataset for Speech Emotion Recognition.
+
+### Dataset Details
+
+- Dataset: RAVDESS
+- Version: Speech 16 kHz
+- Number of Actors: 24
+- Number of Speech Recordings: 1,440
+- Number of Emotion Classes: 8
+- Audio Format: WAV
+- Sampling Rate: 16 kHz
+
+### Emotions
+
+- Neutral
+- Calm
+- Happy
+- Sad
+- Angry
+- Fearful
+- Disgust
+- Surprised
+
+### Dataset Source
+
+The dataset can be downloaded from the official RAVDESS repository:
+
+https://zenodo.org/records/11063852
+
+> Note: The RAVDESS audio files are not included in this GitHub repository due to their size. Download the dataset separately and place it in the project directory before running the training notebooks.
 ---
+
 
 ## Author
 
